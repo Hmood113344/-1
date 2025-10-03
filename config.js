@@ -1,7 +1,7 @@
 export const config = {
   port: 3000,
   profile: {
-    name: "هنا اسمك",
+    name: "وكيل اعمال ابو فهد",
     image: {
       customUrl: null,
       fallbackUrl: "https://cdn.discordapp.com/attachments/1243993773730566204/1243993774120763486/FULL.png?ex=67fa07bc&is=67f8b63c&hm=52d5d0d31fd1cbbb8ec35e6452379e518085af7ab761b510552104091d2766c4&"
@@ -37,13 +37,13 @@ export const config = {
     }
   },
   discord: {
-    userId: "383319889064099841",
+    userId: "1003511814140743825",
     webhookUrl: "YOUR_WEBHOOK_URL"
   },
   social: {
     tiktok: "https://tiktok.com/@yourusername",
     instagram: "https://instagram.com/yourusername",
-    discord: "https://discord.gg/yourinvite"
+    discord: "https://discord.gg/r-c0"
   },
   features: {
     tiktok: true,
